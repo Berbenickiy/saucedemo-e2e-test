@@ -11,8 +11,6 @@ git clone https://github.com/ваш_пользователь/saucedemo-e2e-test.
 Перейдите в директорию проекта:
 cd saucedemo-e2e-test
 
-
-
 Создайте и Активируйте Виртуальное Окружение
 Windows PowerShell
 python -m venv venv
@@ -23,7 +21,6 @@ pip install -r requirements.txt
 
 Запустите Тест
 python tests/test_purchase.py
-
 
 Тест
 корректно авторизируеться на сайте
